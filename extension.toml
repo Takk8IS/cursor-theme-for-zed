@@ -1,0 +1,10 @@
+id = "cursor"
+name = "Cursor Theme"
+authors = [
+  "David C Cavalcante <davcavalcante@proton.me>",
+  "Takk™ Innovate Studio <say@takk.ag>",
+]
+version = "1.0.0"
+schema_version = 1
+description = "📺 A theme that recreates the Cursor IDE experience within Zed, bringing familiar styling and interface elements from the popular AI-powered code editor"
+repository = "https://github.com/takk8is/cursor-theme-for-zed"
