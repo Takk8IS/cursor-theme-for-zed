@@ -207,6 +207,11 @@
                 "syntax": {
                     "attribute": {
                         "color": "#AAA0FAFF",
+                        "font_style": "italic",
+                        "font_weight": null
+                    },
+                    "editor.foreground": {
+                        "color": "#FFFFFFFF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -260,6 +265,16 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.method": {
+                        "color": "#EFB080FF",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "function.special.definition": {
+                        "color": "#000",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "hint": {
                         "color": "#88C0D0FF",
                         "font_style": null,
@@ -291,7 +306,7 @@
                         "font_weight": null
                     },
                     "operator": {
-                        "color": "#D6D6DDFF",
+                        "color": "#83D6C5FF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -321,7 +336,7 @@
                         "font_weight": null
                     },
                     "punctuation.bracket": {
-                        "color": "#169FFFFF",
+                        "color": "#FFD602FF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -366,7 +381,7 @@
                         "font_weight": null
                     },
                     "tag": {
-                        "color": "#87C3FFFF",
+                        "color": "#FAD075FF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -382,6 +397,11 @@
                     },
                     "type": {
                         "color": "#87C3FFFF",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "type.builtin": {
+                        "color": "#81D2CEFF",
                         "font_style": null,
                         "font_weight": null
                     },
