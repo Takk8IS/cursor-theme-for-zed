@@ -6,6 +6,11 @@ The "Cursor" theme brings the modern and sleek interface design of the popular C
 
 The "Cursor" theme is meticulously designed to replicate the visual characteristics and user interface elements of the Cursor IDE, bringing its modern dark theme, sophisticated color palette, and clean design philosophy to Zed. The theme features carefully selected colors, typography, and interface elements that mirror Cursor's professional appearance while maintaining optimal readability and visual comfort during extended coding sessions.
 
+### Themes
+
+- **Cursor Dark** and **Cursor Light**: generated from the theme files that ship with Cursor (3.25.6), so they match Cursor as it looks today. The mapping to Zed's keys follows Zed's own importer for VS Code themes; the generator is at [RenaudDenis/cursor-zed](https://github.com/RenaudDenis/cursor-zed).
+- **Cursor Dark Classic**: the original recreation, named "Cursor Dark" before version 1.2.0. If you liked the earlier look, select this one.
+
 ### Theme Screenshot
 
 ![Cursor Theme](https://github.com/Takk8IS/cursor-theme-for-zed/blob/main/assets/screenshot-01.png?raw=true)
